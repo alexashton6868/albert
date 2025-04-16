@@ -14,7 +14,7 @@ import pygame
 import threading
 import textwrap
 import os
-API_KEY = "61cde747b66fa5857a5d9d37cd44a3fa"
+API_KEY = "6"
 
 
 #define the user input and screen
